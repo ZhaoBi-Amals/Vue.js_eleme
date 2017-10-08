@@ -19,10 +19,10 @@ npm run dev
 ![Image text](https://github.com/wengzs/Vue.js_eleme/blob/master/introduction_gif/eleme4.gif)
 ## 项目分析
 
-#### 组件化开发
+### 组件化开发
 简单的讲，诸如页面中的‘⊕’标签、购物车、食物详情弹出框等等都是组件。哪里要用到它们，就在哪里引入它们，就像搭积木一样。我们要做的就是写好一个个的组件，再把这些组件一一加载在页面上。<br />
 
-### 实现与技术需求
+### 页面分析
 整个demo分成5个部分：<br />
 1、页面header部分：<br />
 ![Image text](https://github.com/wengzs/Vue.js_eleme/blob/master/introduction_gif/1.png)<br />
@@ -34,3 +34,5 @@ npm run dev
 ![Image text](https://github.com/wengzs/Vue.js_eleme/blob/master/introduction_gif/4.png)<br />
 5、商品的pop-up层：（这里和慕课网的教程不一样，我是直接照着官网上的效果写的）<br />
 ![Image text](https://github.com/wengzs/Vue.js_eleme/blob/master/introduction_gif/5.png)<br />
+
+### 项目构思
