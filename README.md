@@ -1,21 +1,13 @@
-# eleme
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+# Vue.js-饿了么实战-新手向
+## 前置要求
+1、Vue基础知识 参考官网。~~~一直看到看不懂了就行，边做边学才重要~~~
+2、vue-cli 会用命令行工具新建一个项目、运行一个项目
+3、npm/cnpm 花个十分钟了解下
+## 项目运行
+新手试看（可跳过此步）：
+terminal下：
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+//用cd指令进入项目文件夹，再输入：
+npm run dev
+```
+## 项目预览
