@@ -13,3 +13,7 @@
 npm run dev
 ```
 ## 项目预览
+![Image text](https://github.com/wengzs/Vue.js_eleme/blob/master/introduction_gif/eleme1.gif)
+![Image text](https://github.com/wengzs/Vue.js_eleme/blob/master/introduction_gif/eleme2.gif)
+![Image text](https://github.com/wengzs/Vue.js_eleme/blob/master/introduction_gif/eleme3.gif)
+![Image text](https://github.com/wengzs/Vue.js_eleme/blob/master/introduction_gif/eleme4.gif)
