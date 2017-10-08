@@ -36,3 +36,55 @@ npm run dev
 ![Image text](https://github.com/wengzs/Vue.js_eleme/blob/master/introduction_gif/5.png)<br />
 
 ### 项目构思
+#### 有多少个page?<br />
+这是个单页的demo<br />
+#### 最主要的交互有哪些？<br />
+header --> bulletin （点击header中的某些元素弹出bulletin页面，下同）<br />
+container --> 商品、评价、商家<br />
+container --> pop-up商品详情层<br />
+shoppingCart --> 弹出框<br />
++、- 标签 --> 购买、移除商品<br />
+#### 需要用到的技能：<br />
+- 基础要求：js(es6) / css / html<br />
+- 增加效率的：<br />
+css: less/sass/stylus<br />
+js: jQuery<br />
+- Vue相关的：<br />
+脚手架工具：vue-cli<br />
+模板：webpack<br />
+vue官方文档：基础部分、component（组件）、transition（组件切换动画）<br />
+组件切换：vue-router<br />
+组件之间通信：vue-bus / vuex<br />
+- 额外的<br />
+ajax：vue-axios<br />
+##### 了解了这些之后，就可以开始写项目了。在需要用到以上这些技能的时候，就勇敢的去把它点亮就好。<br />
+
+### 写大框框
+个人习惯先把最主要的大框框写了，再往里面填细节。<br />
+#### 写page
+由于这个demo只有一个页面，所以在用vue-cli新建了一个webpack项目之后，直接用项目中默认的 app.vue 作为主页面就行。<br />
+ps：建议将src目录下除了app.vue和main.js之外的所有文件删除。然后在src下新建：component(组件)、route(路由)、stylus(公共样式；或者less/sass等，看用的什么就写什么)、common(公用资源)，一个简单的项目目录就搞定了<br />
+#### 写router/
+搞定了目录结构，之后最重要的就是写各个页面和页面之间的切换、通讯。
+
+#### 写组件
+填组件的坑：
+
+#### 改BUG
+填BUG的坑
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
