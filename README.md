@@ -4,8 +4,10 @@
 2、vue-cli 会用命令行工具新建一个项目、运行一个项目<br />
 3、npm/cnpm 花个十分钟了解下<br />
 ## 项目运行
-新手试看（可跳过此步）：<br />
-terminal下：<br />
+新手向：<br />
+先安装：node、vue、vue-cli;<br />
+下载项目;<br />
+然后在(mac)terminal下：<br />
 ```
 //用cd指令进入项目文件夹，再输入：
 npm run dev
