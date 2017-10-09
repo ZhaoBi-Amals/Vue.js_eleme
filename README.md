@@ -69,10 +69,10 @@ Vue全家桶包括Vue-router、Vuex、axios以及构架工具Vue-cli
 首先我们得了解一些组件的知识，在翻阅了官方文档之后，相信大家都跃跃欲试。<br />
 那么问题来了，怎么样写一个组件出来呢？<br />
 相信你需要一个手把手教你怎么做的教程，好巧我这里写了一个:(害羞脸 <br />
-点击：https://github.com/wengzs/theory_of_Vue/blob/master/Vue-component.md
+点击：https://github.com/wengzs/theory_of_Vue/blob/master/Vue-component.md <br />
 接着我们再把官方的vue-router文档也看了一遍。当然问题又来了，怎么写个能用的路由出来呢？<br />
-点击：https://github.com/wengzs/theory_of_Vue/blob/master/Vue-router.md
-不急，你一定会遇到非父子组件通信的问题，当然是继续看教程咯：
+点击：https://github.com/wengzs/theory_of_Vue/blob/master/Vue-router.md <br />
+不急，你一定会遇到非父子组件通信的问题，当然是继续看教程咯： <br />
 点击：
 #### 写组件
 
