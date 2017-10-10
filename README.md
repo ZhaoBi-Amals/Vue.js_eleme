@@ -54,7 +54,7 @@ js: jQuery<br />
 模板：webpack<br />
 vue官方文档：基础部分、component（组件）、transition（组件切换动画）<br />
 组件切换：vue-router<br />
-组件之间通信：vue-bus / vuex<br />
+组件之间通信：eventBus / vuex<br />
 - 额外的<br />
 ajax：axios<br />
 ##### 了解了这些之后，就可以开始写项目了。在需要用到以上这些技能的时候，就勇敢的去把它点亮就好。<br />
