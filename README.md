@@ -73,11 +73,11 @@ Vue全家桶包括Vue-router、Vuex、axios以及构架工具Vue-cli
 接着我们再把官方的vue-router文档也看了一遍。当然问题又来了，怎么写个能用的路由出来呢？<br />
 点击：https://github.com/wengzs/theory_of_Vue/blob/master/Vue-router.md <br />
 不急，你一定会遇到非父子组件通信的问题，当然是继续看教程咯： <br />
-点击：
-#### 写组件
+点击：https://github.com/wengzs/theory_of_Vue/blob/master/eventBus%26Vuex.md <br />
+虽然这里用不到ajax相关的知识，但是补全一下全家桶也是不错的，aixos: <br />
+点击：https://github.com/wengzs/theory_of_Vue/blob/master/axios.md <br />
 
-
-#### 改BUG
+#### 基本上学完上面四个方面的东西，这个demo就很轻松啦~
 
 
 
